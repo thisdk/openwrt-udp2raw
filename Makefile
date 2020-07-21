@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2017 Yu Wang <wangyucn@gmail.com>
+# Copyright (c) 2020 Yu Wang <wangyucn@gmail.com>
 #
 # This is free software, licensed under the MIT.
 # See /LICENSE for more information.
